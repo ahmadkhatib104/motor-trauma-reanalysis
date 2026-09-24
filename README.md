@@ -17,7 +17,7 @@ python tests/verify_motor_independent.py
 python src/make_outputs.py
 ```
 
-The scripts produce aggregate analysis results in `outputs/motor/`, tables in `tables/`, figures in `figures/`, and audit files in `audit/`. They also create a local participant-level intermediate file under `data/processed/`; **do not publish that file**. Both `data/raw/` and `data/processed/` are ignored by Git.
+The scripts produce aggregate analysis results in `outputs/motor/`, tables in `tables/`, figures in `figures/`, and audit files in `audit/`. They do not write a participant-level analysis file. The downloaded source data under `data/raw/` are ignored by Git.
 
 The analysis uses recorded end-of-follow-up vital status in the released cohort, not verified 90-day survival. Its six-hospital allocation reference is exact for the recorded hospital summaries, while the reported confidence intervals are working-model approximations. These analyses do not remove possible post-randomization selection bias or missing-outcome uncertainty.
 
