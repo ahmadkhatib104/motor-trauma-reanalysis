@@ -1,0 +1,37 @@
+{
+  "dataset_doi": "10.17632/bgpmkpcwdt.1",
+  "version": 1,
+  "license": "CC BY 4.0",
+  "landing_url": "https://data.mendeley.com/datasets/bgpmkpcwdt/1",
+  "created_utc": "2026-09-15T01:44:12.308208+00:00",
+  "files": [
+    {
+      "filename": "Appendix 10_MOTOR_Registry_Data_Dictionary.csv",
+      "path": "data/raw/motor/Appendix 10_MOTOR_Registry_Data_Dictionary.csv",
+      "bytes": 21014,
+      "sha256": "1461bca0b91d0da3ab0703caa2a229f616de8b7def8944b21eec58039cdfd447",
+      "initial_route": "verified local discovery copy"
+    },
+    {
+      "filename": "Appendix 11 data analysis code part 1.do",
+      "path": "data/raw/motor/Appendix 11 data analysis code part 1.do",
+      "bytes": 18502,
+      "sha256": "ca2b3a8d3566a6fd787d2bc534a3e7e2be14374b9229a719a2f2685f8fbfcb80",
+      "initial_route": "verified local discovery copy"
+    },
+    {
+      "filename": "Appendix 12 Data analysis code part 2.do",
+      "path": "data/raw/motor/Appendix 12 Data analysis code part 2.do",
+      "bytes": 11554,
+      "sha256": "75237ab38b1fb539a6edcec1325fd472ed41199de4f004615aa879511d956b09",
+      "initial_route": "verified local discovery copy"
+    },
+    {
+      "filename": "Appendix 13 MOTOR TRIAL DATASET.dta",
+      "path": "data/raw/motor/Appendix 13 MOTOR TRIAL DATASET.dta",
+      "bytes": 238895,
+      "sha256": "01136a9e9ef177dd175f5f260b71eba365379c736ab9a8d80bb36135cbd1a064",
+      "initial_route": "verified local discovery copy"
+    }
+  ]
+}
