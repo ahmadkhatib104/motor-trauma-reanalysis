@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Recorded mortality after rural trauma-team training in MOTOR: a hospital-level reanalysis"
+type: software
+repository-code: "https://github.com/ahmadkhatib104/motor-trauma-reanalysis"
+license: MIT
+year: 2026
+authors:
+  - family-names: Khatib
+    given-names: Ahmad
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"
+  - family-names: Mualla
+    given-names: Fawzi
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"
+  - family-names: Yaaseen
+    given-names: Mohammad
+    orcid: "https://orcid.org/0009-0007-2187-6350"
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"
+  - family-names: Awad
+    given-names: Saleh
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"
+  - family-names: Syed
+    given-names: Zayan
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"
+  - family-names: Hazin
+    given-names: Moustafa
+    affiliation: "Creighton University School of Medicine, Phoenix, Arizona, USA"

@@ -1,0 +1,3 @@
+# Store text files as LF in the repository and check them out as LF on every
+# platform, so a clone is byte-identical regardless of who makes it.
+* text=auto eol=lf
